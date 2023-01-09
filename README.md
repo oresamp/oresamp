@@ -1,4 +1,4 @@
-### Hi there 👋
+### always active listening
 
 - <code> 🎓 Master of Arts in Sound Engineering </code>
 - <code> 🎮 Speciality: Game Audio Production </code>
