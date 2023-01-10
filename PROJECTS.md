@@ -2,7 +2,7 @@
 
 ### Dawn of Zombies: The Survival ###
 
-[Play Market](https://play.google.com/store/apps/details?id=com.survival.last/), 
+[Play Market](https://play.google.com/store/apps/details?id=com.survival.last), 
 [App Store](https://apps.apple.com/us/app/dawn-of-zombies-the-survival/id1465954247)
 
 ```
