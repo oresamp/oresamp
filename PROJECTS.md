@@ -1,4 +1,5 @@
 ## Game Audio Production
+concepting, sound design, implementation, programming, music production, post-production, 
 
 ### Dawn of Zombies: The Survival ###
 
@@ -31,6 +32,7 @@ in which opponents will be other knights, huge dragons, terrible zombies and oth
 ```
 
 ## Technical Audio Supporting
+Helped in the development of several partner
 
 ### Shelter War
 [Play Market](https://play.google.com/store/apps/details?id=zombie.survival.last.city.shelter)
@@ -40,3 +42,11 @@ in which opponents will be other knights, huge dragons, terrible zombies and oth
 Shelter War is an immersive survival strategy game with RPG elements. You will take on the role of a newly 
 appointed bunker Overseer. The story takes place in one of the last shelters, and it’s up to you to build 
 the biggest and most prosperous bunker for all of your residents. Lead your survivors to a better tomorrow!
+
+```
+
+### Truck World: Euro Simulator
+[Play Market](https://play.google.com/store/apps/details?id=com.truckworldgame.euro.american.truck.simulator)
+[App Store](https://apps.apple.com/de/app/truck-world-euro-american/id1482248617)
+
+You get to play the driver in a transportation company. Explore locations, take on interesting missions, convey cargo, build up experience, discover European and American trucks and upgrade your vehicle.
