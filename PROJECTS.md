@@ -49,4 +49,6 @@ the biggest and most prosperous bunker for all of your residents. Lead your surv
 [Play Market](https://play.google.com/store/apps/details?id=com.truckworldgame.euro.american.truck.simulator)
 [App Store](https://apps.apple.com/de/app/truck-world-euro-american/id1482248617)
 
+```
 You get to play the driver in a transportation company. Explore locations, take on interesting missions, convey cargo, build up experience, discover European and American trucks and upgrade your vehicle.
+```
