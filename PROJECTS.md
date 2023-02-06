@@ -54,7 +54,7 @@ You get to play the driver in a transportation company. Explore locations, take 
 convey cargo, build up experience, discover European and American trucks and upgrade your vehicle.
 ```
 
-## Game Audio Production
+## Game Advertising
 advertising, store videos
 
 ### Pixel Gun 3D - Battle Royale
