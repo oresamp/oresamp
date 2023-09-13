@@ -6,6 +6,7 @@
 - <code> 🔨 unix, git, databases basics, Unreal Engine, MetaSound, Unity3D, Wwise, FMOD, 
 Logic Pro X/Reaper, Juce/Max/PureData(for fun) </code>
 - <code> [Projects](PROJECTS.md) </code>
+- <code> ⛺ portfolio repos are private - sharing upon request </code>
 
 
 <!--
