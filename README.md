@@ -1,6 +1,6 @@
 # always active listening
 
-- <code> 🎓 Master of Music in Audio Engineering </code>
+- <code> 🎓 Master in Music and Audio Engineering </code>
 - <code> 🎮 Speciality: Game Audio Production </code>
 - <code> 🧑‍💻 Languages: C#, C++, Python </code>
 - <code> 🔨 Unreal Engine 5, Unity3D, Wwise, FMOD, unix, git, databases basics,
